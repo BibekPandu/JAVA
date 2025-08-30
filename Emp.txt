@@ -1,0 +1,6 @@
+Employee ID: 1
+Name: bibek
+Address: ktm
+Date of Birth: 03/03/2003
+Phone Number: 9876540123
+-----------------------------
